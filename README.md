@@ -24,12 +24,12 @@
 <img src="https://skillicons.dev/icons?i=git,github,gradle,hibernate,ktor,maven,spring" /><br><br>
 
 <h2 align="left">Contact me</h2>
-<p style="display: flex;">  
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/byronsdec/">
-    LinkedIn
+<p style="display: flex">  
+  <a target="_blank" href="https://www.linkedin.com/in/byronsdec/">
+    <img alt="LinkedIn" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-48.png"/>
   </a>  
   <a style="margin-left: 10px;" target="_blank" href="https://upwork.com/freelancers/byrondelgado">
-    Upwork
+    <img alt="Upwork" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-48.png"/>
   </a>
 </p>
 
