@@ -1,10 +1,10 @@
 <h1 align="center">Hello there, I'm Byron!</h1>
 
-<h2>Statistics</h2>
+<!--h2>Statistics</h2>
 <p align="center">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=byron-dm&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byron-dm&layout=compact&theme=aura&langs_count=9" />
-</p>
+</p-->
 
 <br>
 <h2 align="left" font-weight="bold">About me</h2>
