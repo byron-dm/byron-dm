@@ -19,9 +19,9 @@
 <h2 align="left">Skills</h2>
 
 <img src="https://skillicons.dev/icons?i=androidstudio,idea,rider,postman,visualstudio" /><br>
-<img src="https://skillicons.dev/icons?i=cs,css,html,java,kotlin" /><br>
+<img src="https://skillicons.dev/icons?i=java,kotlin" /><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,gradle,hibernate,ktor,maven,spring" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gradle,hibernate,ktor,gradle,spring" /><br><br>
 
 <h2 align="left">Contact me</h2>
 <p style="display: flex">  
