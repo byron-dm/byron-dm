@@ -9,8 +9,8 @@
 <br>
 <h2 align="left" font-weight="bold">About me</h2>
 <ul>
-  <li>💼 Fulltime freelancer currently working with <a href="https://bilky.es/en">Bilky</a>
-  <li>🛠️ Main developer of <a href="https://www.langmuirsystems.com/firecontrol">FireControl</a> and <a href="https://www.golfmore.eu/golfmore-self-service-kiosk">GolfMore Kiosk</a> </li>
+  <li>🛠️Creator of <a href="https://byron-dm.github.io/logstation-site/">LogStation</a></li>
+  <li>🛠️ Main developer of <a href="https://www.langmuirsystems.com/firecontrol">FireControl</a> and <a href="https://www.golfnext.com/kiosk">GolfMore Kiosk</a> </li>
 </ul>
 
 <br>
