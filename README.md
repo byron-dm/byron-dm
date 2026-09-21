@@ -49,7 +49,7 @@ distributed via perpetual licenses so developers keep full control of their data
         <p><img src="https://img.shields.io/badge/Status-In_Active_Development-059669?style=flat-square" alt="In Active Development" /></p>
         <p><i>Offline Android Log Investigation Workstation</i></p>
       </div>
-      <p>A desktop tool built to inspect Android bugreports locally, keeping confidential logs off third-party servers.</p>
+      <p>A cross-platform desktop tool built to inspect Android bugreports locally, keeping confidential logs off third-party servers.</p>
       <p>
         <img src="https://img.shields.io/badge/SIMD_Search-2E3540?style=flat-square" />
         <img src="https://img.shields.io/badge/Binary_Indexing-2E3540?style=flat-square" />
