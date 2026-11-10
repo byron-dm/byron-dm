@@ -18,64 +18,13 @@
 
 ---
 
-### 💼 Senior Consulting & Contract Engineering
+I build industrial systems, desktop applications, and hardware integrations.
+18 years shipping software that runs reliably offline and talks directly to
+machinery and peripherals.
 
-Available for **consulting engagements, architecture reviews, and contract engineering**:
-
-* **Modern Desktop Architecture:** Building and refactoring desktop applications with **C# (.NET), WPF, and Avalonia**.
-* **Hardware Interfacing & Industrial Control:** Serial protocols, CNC machine controls, automated kiosks, payment
-  terminals, and automated error handling for unattended runtime.
-* **Storage & Multi-Threading:** Offline-first systems, SQLite migrations, low-latency file I/O, and non-blocking
-  background threads.
-* **Android Internals:** Deep Android OS debugging, background services, and crash analysis.
-
-👉 **[Direct project inquiries](https://linkedin.com/in/byronsdec)**
-
----
-
-### 🔨 Independent Workshop: The Silo Forge
-
-I am the founder and lead engineer at **[The Silo Forge](https://thesiloforge.com/)**, an independent software workshop
-developing **local-first desktop tools**.
-
-All software runs entirely on the local machine: **zero telemetry, no cloud dependencies, and fast native execution**,
-distributed via perpetual licenses so developers keep full control of their data.
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3>LogStation</h3>
-        <p><img src="https://img.shields.io/badge/Status-In_Active_Development-059669?style=flat-square" alt="In Active Development" /></p>
-        <p><i>Offline Android Log Investigation Workstation</i></p>
-      </div>
-      <p>A cross-platform desktop tool built to inspect Android bugreports locally, keeping confidential logs off third-party servers.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SIMD_Search-2E3540?style=flat-square" />
-        <img src="https://img.shields.io/badge/Binary_Indexing-2E3540?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Telemetry-2E3540?style=flat-square" />
-     </p>
-      <a href="https://thesiloforge.com/logstation/">View Product Page →</a>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3>ScriptCast</h3>
-        <p><img src="https://img.shields.io/badge/Status-In_Active_Development-059669?style=flat-square" alt="In Active Development" /></p>
-        <p><i>Local-First Audio Drama Production Pipeline</i></p>
-      </div>
-      <p>A desktop processing pipeline that compiles YAML scripts into mixed and mastered multi-track audio using local AI models and ffmpeg.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Local_Inference-2E3540?style=flat-square" />
-        <img src="https://img.shields.io/badge/ffmpeg_DSP-2E3540?style=flat-square" />
-        <img src="https://img.shields.io/badge/EBU_R128-2E3540?style=flat-square" />
-      </p>
-      <a href="https://thesiloforge.com/scriptcast/">View Product Page →</a>
-    </td>
-
-  </tr>
-</table>
-
----
+🌐 **[thesiloforge.com](https://thesiloforge.com)** — my independent engineering workshop
+· [Services & engagement terms](https://thesiloforge.com/services)
+· [ScriptCast case study](https://thesiloforge.com/scriptcast)
 
 <!--
 ### 📊 Ecosystem & GitHub Analytics
