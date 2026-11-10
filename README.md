@@ -22,7 +22,7 @@ I build industrial systems, desktop applications, and hardware integrations.
 18 years shipping software that runs reliably offline and talks directly to
 machinery and peripherals.
 
-🌐 **[thesiloforge.com](https://thesiloforge.com)** — my independent engineering workshop
+🌐 **[The Silo Forge](https://thesiloforge.com)** — my independent engineering workshop
 · [Services & engagement terms](https://thesiloforge.com/services)
 · [ScriptCast case study](https://thesiloforge.com/scriptcast)
 
